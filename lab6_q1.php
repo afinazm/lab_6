@@ -18,22 +18,22 @@
  </tr>
 
  <tr>
- <td>Name</td>
+ <td>Number Matric</td>
  <td><?php echo "$no_matrics"; ?></td> 
  </tr>
 
  <tr>
- <td>Name</td>
+ <td>Couse</td>
  <td><?php echo "$course"; ?></td> 
  </tr>
 
  <tr>
- <td>Name</td>
+ <td>Year of Study</td>
  <td><?php echo "$Years_of_study"; ?></td> 
  </tr>
 
  <tr>
- <td>Name</td>
+ <td>Address</td>
  <td><?php echo "$Address"; ?></td> 
  </tr>
 
