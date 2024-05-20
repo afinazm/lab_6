@@ -5,13 +5,38 @@
 </head>
 <body>
  <?php 
- $name = "Muhammad Asyraf";
+ $name = "Norafin Awatif";
+ $no_matrics = "Di220035";
+ $course = "Information Technology (BIT)";
+ $Years_of_study = "year 2 semester 1";
+ $Address = " No 7, Jalan Semilang 3, Taman Sri Putra Banting, Selangor";
  ?>
  <table>
  <tr>
  <td>Name</td>
  <td><?php echo "$name"; ?></td> 
  </tr>
+
+ <tr>
+ <td>Name</td>
+ <td><?php echo "$no_matrics"; ?></td> 
+ </tr>
+
+ <tr>
+ <td>Name</td>
+ <td><?php echo "$course"; ?></td> 
+ </tr>
+
+ <tr>
+ <td>Name</td>
+ <td><?php echo "$Years_of_study"; ?></td> 
+ </tr>
+
+ <tr>
+ <td>Name</td>
+ <td><?php echo "$Address"; ?></td> 
+ </tr>
+
  </table>
  
 </body>
