@@ -13,27 +13,27 @@
  ?>
  <table>
  <tr>
- <td>Name =</td>
+ <td>Name :</td>
  <td><?php echo "$name"; ?></td> 
  </tr>
 
  <tr>
- <td>No matrics =</td>
+ <td>No matrics :</td>
  <td><?php echo "$no_matrics"; ?></td> 
  </tr>
 
  <tr>
- <td>Couse =</td>
+ <td>Couse :</td>
  <td><?php echo "$course"; ?></td> 
  </tr>
 
  <tr>
- <td>Year of Study =</td>
+ <td>Year of Study :</td>
  <td><?php echo "$Years_of_study"; ?></td> 
  </tr>
 
  <tr>
- <td>Address =</td>
+ <td>Address :</td>
  <td><?php echo "$Address"; ?></td> 
  </tr>
 
