@@ -8,7 +8,7 @@
  $name = "Norafin Awatif";
  $no_matrics = "Di220035";
  $course = "Information Technology (BIT)";
- $Years_of_study = "year 2 semester 1";
+ $Years_of_study = "Year 2 semester 1";
  $Address = " No 7, Jalan Semilang 3, Taman Sri Putra Banting, Selangor";
  ?>
  <table>
@@ -23,7 +23,7 @@
  </tr>
 
  <tr>
- <td>Couse :</td>
+ <td>Course :</td>
  <td><?php echo "$course"; ?></td> 
  </tr>
 
